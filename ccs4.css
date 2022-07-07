@@ -1,0 +1,187 @@
+#grad1 {
+    height: 55px;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);}
+    .section-1{
+        border-bottom: 1px solid black;
+    }
+    div {
+        display: block;
+    }
+    .section-1 {
+        background-color: rgb(99, 199, 199);
+        border: 5px solid orangered;
+        border-radius: 10px;
+        margin: 20px auto;
+        width: 70%;
+    }
+    section {
+        display: block;
+    }
+    .section-1 ul {
+        width: 20%;
+        text-align: center;
+        margin: auto;
+    }
+    ul {
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 40px;
+    }
+    .section-1 ul li {
+        font-weight: 500;
+    }
+    li {
+        display: list-item;
+        text-align: -webkit-match-parent;
+    }
+    .paragraphs {
+        background-color: #8ef9c0;
+        border: 2px solid orangered;
+        border-radius: 20px;
+        display: flex;
+        flex-flow: wrap;
+        justify-content: space-around;
+    }
+    .paragraphs p {
+        margin: 0;
+        padding: 2px;
+        width: 400px;
+        height: fit-content;
+        font-weight: bold;
+        background-color: aqua;
+        text-align: center;
+        border: 2px solid green;
+        box-sizing: border-box;
+    }
+   .p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}    
+#grad2 {
+    height: 20PX;
+    padding-bottom: 15px;
+    background: rgb(255, 226, 0);
+    background: radial-gradient( circle, rgba(255, 226, 0, 1) 8%, rgba(184, 49, 23, 1) 73% );
+}
+#boxs{
+    border: 1px solid green;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 0;
+    background: rgb(36, 67, 204);
+    background: radial-gradient( ellipse, rgba(21, 62, 239, 1) 30%, rgba(92, 200, 130, 1) 90% );
+}
+.box{
+    color: maroon;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    background-color: yellow;
+    border: 2px solid orangered;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    padding-top: 50px;
+}
+#grad3 {
+    height: 20PX;
+    padding-bottom: 15px;
+    background: red;
+}
+#cell-1{
+    background-color: #47df73;
+    font-size: 25px;
+    text-align: center;
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+    border-bottom: 10px solid white;
+}
+.cell{
+    color: white;
+    font-weight: bold;
+}
+.th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+.table {
+    width: 100%;
+    margin: 30px 0;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+user agent stylesheet
+.table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+#cell-2 {
+    background-color: #2e89da;
+    font-size: 25px;
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+    border-bottom: 10px solid white;
+}
+.cell {
+    color: white;
+    font-weight: bold;
+}
+#cell-3 {
+    background-color: #6a4ce7;
+    font-size: 20px;
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+    border-bottom: 10px solid white;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+#cell-4 {
+    background-color: #393647;
+    text-decoration: underline;
+    border-top: 10px solid white;
+    border-bottom: 10px solid white;
+}
+#tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+table {
+    width: 100%;
+    margin: 30px 0;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+#cell-5 {
+    background-color: #dc9124;
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+    border-bottom: 10px solid white;
+}
+ #grad3{
+    height: 20px;
+    background: lightblue;
+ }
